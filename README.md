@@ -19,11 +19,11 @@ We have gone through a series of preprocessing, the specific measures are as fol
 2. Image cropping: crop and resample the data to [128 * 128 * 128]
 3. Image intensity normalized to [-1,1]
 
-You can train the entire model by running train.py, and the dependent libraries can be found in requirements.txt.
-We recommend that you use a graphics card with more than 12GB of video memory.
 
 ### Train Part
 
+You can train the entire model by running train.py, and the dependent libraries can be found in requirements.txt.
+We recommend that you use a graphics card with more than 12GB of video memory.
 
 
 ## The Function of  Our Code
