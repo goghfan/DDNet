@@ -54,7 +54,7 @@ The files under this folder store the framework of the improved voxelmorph used 
 
 The files in this folder store the framework of the basic voxelmorph used for our registration method.
 
-**6. metric **
+**6. metric**
 
 Files for processing data and testing registration effects are stored in this folder.
 
