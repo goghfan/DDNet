@@ -2,6 +2,7 @@
 
 This is the code for the BIBM2023 paper Diffusing Coupling High-Frequency-Purifying Structure Feature Extraction for Brain Multimodal Registration.
 
+:fire: **Our paper is accepted by BIBM 2023 as regular paper** :fire:  
 ## Abstract of The Paper
 
 The core of medical image registration is the alignment of corresponding structures.
@@ -69,3 +70,4 @@ Files for processing data and testing registration effects are stored in this fo
 **7. train_DCT_MSE.py train.py vm_train.py**
 
 This is part of the files that train our ensemble method.
+## The Pre-trained Model will be updated soon.
