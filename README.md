@@ -12,7 +12,7 @@ Specifically, the denoising diffusion probabilistic models (DDPM) is firstly uti
 Then, the discrete cosine transform (DCT) is applied to purify high-frequency structure information from the complete feature information for registration.
 Furthermore, structure consistency constraint (SCC) is introduced based on purified structure information to emphasize the core position of the structure in registration.
 Through comprehensive comparisons with traditional and learning-based methods on the multimodal brain MRI dataset, our method demonstrates superior accuracy and stability in brain multimodal registration. 
-The anonymous code is available at https://anonymous.4open.science/r/HCMV67AF/. 
+The anonymous code is available at https://github.com/goghfan/DDNet. 
 
 ## How to Train
 
@@ -31,7 +31,7 @@ We have gone through a series of preprocessing, the specific measures are as fol
 ### Train Part
 
 You can train the entire model by running train.py, and the dependent libraries can be found in requirements.txt.
-We recommend that you use a graphics card with more than 12GB of video memory.
+We recommend that you use GPU with more than 12GB of memory.
 
 
 ## The Function of  Our Code
